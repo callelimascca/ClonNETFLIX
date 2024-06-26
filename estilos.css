@@ -38,6 +38,11 @@ body {
     margin-bottom: 10px;
 }
 
+.imagen:hover{
+    width: 95%;
+    box-shadow: -5px 10px 20px rgb(14, 13, 13);
+}
+
 .series-description {
     font-size: 18px;
     margin-bottom: 20px;
@@ -86,11 +91,10 @@ body {
     width: 100%;
     height: auto;
 }
-.popular-item .popular-item img:hover{
+.popular-item img:hover{
     background: rgb(22, 22, 22);
-    width: 10%;
-    box-shadow: -5px 10px 20px rgb(180, 184, 182);
-
+    width: 105%;
+    box-shadow: -5px 10px 20px rgb(24, 22, 22);
 }
 
 
